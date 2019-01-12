@@ -1,4 +1,9 @@
 #!/usr/bin/env python3.7
+"""
+usage: whodeps.py <formula_name>
+
+do the revert of brew deps.
+"""
 
 import argparse
 import json
